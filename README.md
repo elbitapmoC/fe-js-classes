@@ -1,9 +1,12 @@
 # fe-js-classes
+
 - classes
-- class sonstructors
+- class constructors
 - class methods
 - method chaining
 - inheritance
 - constructors
 - prototypes
-- prototype inheritance 
+- prototype inheritance
+- prototype chain
+- functional constructors
